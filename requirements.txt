@@ -1,1 +1,5 @@
-streamlit==1.6.0
+streamlit
+plotly
+matplotlib
+pandas
+numpy
