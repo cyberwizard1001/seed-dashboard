@@ -1,4 +1,6 @@
 mkdir -p ~/.streamlit/
+mkdir data
+mkdir -p ~/.streamlit/data
 
 tee ~/.streamlit/config.toml <<EOF
 [server]
