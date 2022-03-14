@@ -57,7 +57,7 @@ def fetch_Clinical():
                            'InflammedTongue', 'LipCuts', 'MouthUlcer',
                            'BitotSpot', 'Xeropthalmia', 'RedEyes', 'Catract',
                            'HairFall', 'DamagedHair', 'SplitEnds', 'Discolouration',
-                           'DarkLines', 'SpoonShapedNails', 'BrokenNails', 'PaleNails'])
+                           'DarkLines', 'SpoonShapedNails', 'BrokenNails', 'PaleNails','lean','bony','goitre','obesity'])
 
 
 
